@@ -1,6 +1,6 @@
 ﻿# Serverless Todo Application
 
-> This project showcases a todo app that was built Serveless and AWS Lambda.
+> This project showcases a todo app that was built Serverless and AWS Lambda.
 
 ![](aws-lambda-api-gateway-serverless.jpg)
 
