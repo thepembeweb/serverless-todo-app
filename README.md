@@ -36,13 +36,13 @@ npm install
 
 ### Backend setup
 
-* Open a new terminal within the _backend_ directory and run:
+* Open a new terminal within the _backend_ directory:
 * Install project dependencies with `npm i`
 * Run `sls deploy -v` to upload the code to your aws account
 
 ### Client setup
 
-* Open a new terminal within the _client_ directory and run:
+* Open a new terminal within the _client_ directory:
 * Install project dependencies with `npm i`
 * Start the development server with `npm start`
 * Open the browser at `localhost:3000`
